@@ -60,7 +60,7 @@ Open the Jupyter Notebook in the starter code folder named ``part_2_mars_weather
    
 ## Source Code Location
 
-* The source code (including the written analysis contained within the notebook) is located in the ```MarsScraped``` directory.
+* The source code (including the written analysis contained within the notebook) is located in the root directory.
 
 ## Acknowledgments
 
